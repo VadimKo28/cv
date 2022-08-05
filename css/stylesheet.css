@@ -1,29 +1,29 @@
 body {
   font-family: sans-serif;
-    }
+}
 
-    .wrapper {
-      width: 600px;
-      margin: 0 auto;
-    }
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
   
 .title {
   background:rgb(197, 203, 212);
-  }
+}
 
 .subtitle {
   font-size: 2em; 
   padding-left: 10px;
-  }
+}
 
 .div-title {
   background: rgb(234, 235, 235)
-  }
+}
 
 .skills li {
   list-style: square; 
   padding-left: 10px;
-  }
+}
 
 .skills {
   margin: -8px 30px;
